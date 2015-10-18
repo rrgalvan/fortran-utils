@@ -8,6 +8,8 @@ The modules are mostly independent of each other. Simply copy any modules that
 you need into your project. Tests are in the ``tests`` directory, you can look
 there for examples of usage.
 
+This repository was forked in order to test Fortran under Travis
+
 License
 -------
 
